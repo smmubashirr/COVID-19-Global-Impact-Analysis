@@ -2,7 +2,7 @@
 
 ## About the Analysis:
 
-In this project, I aim to explore the global impact of COVID-19 using a clean dataset of reported cases. The analysis focuses on both WHO regions and country-level trends in confirmed, recovered, and death cases.
+In this project, I aim to explore the global impact of COVID-19 using a clean dataset of reported cases using Python. The analysis focuses on both WHO regions and country-level trends in confirmed, recovered, and death cases.
 
 Before diving into visualizations and insights, I will begin by exploring the dataset, checking for missing values, verifying datatypes, and creating useful features. Once the data is clean and well-structured, I proceed to:
 
