@@ -1,1 +1,1 @@
-# COVID-19-Global-Impact-Analysis-
+# COVID-19 Global Impact Analysis
